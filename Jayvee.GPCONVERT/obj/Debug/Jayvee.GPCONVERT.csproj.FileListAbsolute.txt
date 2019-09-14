@@ -1,0 +1,15 @@
+C:\Users\VGD pc 2\source\repos\Jayvee.GPCONVERT\bin\Debug\Jayvee.GPCONVERT.exe.config
+C:\Users\VGD pc 2\source\repos\Jayvee.GPCONVERT\bin\Debug\Jayvee.GPCONVERT.exe
+C:\Users\VGD pc 2\source\repos\Jayvee.GPCONVERT\bin\Debug\Jayvee.GPCONVERT.pdb
+C:\Users\VGD pc 2\source\repos\Jayvee.GPCONVERT\obj\Debug\Jayvee.GPCONVERT.csprojAssemblyReference.cache
+C:\Users\VGD pc 2\source\repos\Jayvee.GPCONVERT\obj\Debug\MainWindow.g.cs
+C:\Users\VGD pc 2\source\repos\Jayvee.GPCONVERT\obj\Debug\App.g.cs
+C:\Users\VGD pc 2\source\repos\Jayvee.GPCONVERT\obj\Debug\Jayvee.GPCONVERT_MarkupCompile.cache
+C:\Users\VGD pc 2\source\repos\Jayvee.GPCONVERT\obj\Debug\Jayvee.GPCONVERT_MarkupCompile.lref
+C:\Users\VGD pc 2\source\repos\Jayvee.GPCONVERT\obj\Debug\MainWindow.baml
+C:\Users\VGD pc 2\source\repos\Jayvee.GPCONVERT\obj\Debug\Jayvee.GPCONVERT.g.resources
+C:\Users\VGD pc 2\source\repos\Jayvee.GPCONVERT\obj\Debug\Jayvee.GPCONVERT.Properties.Resources.resources
+C:\Users\VGD pc 2\source\repos\Jayvee.GPCONVERT\obj\Debug\Jayvee.GPCONVERT.csproj.GenerateResource.cache
+C:\Users\VGD pc 2\source\repos\Jayvee.GPCONVERT\obj\Debug\Jayvee.GPCONVERT.csproj.CoreCompileInputs.cache
+C:\Users\VGD pc 2\source\repos\Jayvee.GPCONVERT\obj\Debug\Jayvee.GPCONVERT.exe
+C:\Users\VGD pc 2\source\repos\Jayvee.GPCONVERT\obj\Debug\Jayvee.GPCONVERT.pdb
